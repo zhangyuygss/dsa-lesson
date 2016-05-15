@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1451048968 source:c:\users\lenovo\onedrive\codes\dsa_lesson\experiment3\huffmantree\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+

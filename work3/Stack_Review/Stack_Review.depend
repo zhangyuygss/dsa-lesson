@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1450695275 source:c:\users\lenovo\onedrive\codes\dsa_lesson\work3\stack_review\main.cpp
+	<cstdio>
+	<cstdlib>
+	<iostream>
+
